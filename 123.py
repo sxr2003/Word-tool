@@ -11,8 +11,8 @@ sy = file.read()
 file.close()
 print(sy)
 # Set your own appid/appkey.
-appid = '20240117001943970'
-appkey = 'ErJr9Yzhji3BoSoJxNWY'
+appid = 'your appid'
+appkey = 'your appkey'
 
 # For list of language codes, please refer to `https://api.fanyi.baidu.com/doc/21`
 from_lang = 'en'
